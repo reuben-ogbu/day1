@@ -1,0 +1,42 @@
+body{
+    background-color: #F5F8FA;
+}
+.navbar {
+    overflow: visible; 
+    height: 60px;
+}
+/*.niny-nine {
+    font-size: xx-large;
+}*/
+
+.d-container {
+    margin-top: 45px;
+    height: 450px;
+}
+        input[type=text] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: none;
+        background-color: #bac5c5;
+}
+hr {
+    border: solid;
+    margin-top: 4px;
+}
+.powered{
+    padding-left: 200px;
+}
+.freelancer {
+    margin-top: 25px;
+}
+.wp {
+    background-color: #038E7D;
+    text-align: center;
+    margin-top: 35px;
+    font-weight: bold;
+}
+.support {
+    text-align: center;
+}
